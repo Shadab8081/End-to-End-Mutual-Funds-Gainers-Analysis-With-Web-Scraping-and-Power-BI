@@ -8,14 +8,14 @@
 - What percentage of funds show positive year-to-date returns?
 - What are the most volatile funds in terms of daily changes?
 ## DataUsed
-[yahoo_mutual_fund_gainers](https://github.com/Shadab8081/End-to-End-Mutual-Funds-Gainers-Analysis-With-Web-Scraping-and-Power-BI/blob/main/yahoo_mutual_fund_gainers.csv)
-[cleaned_mutual_fund_data](https://github.com/Shadab8081/End-to-End-Mutual-Funds-Gainers-Analysis-With-Web-Scraping-and-Power-BI/blob/main/cleaned_mutual_fund_data.csv)
+- [yahoo_mutual_fund_gainers](https://github.com/Shadab8081/End-to-End-Mutual-Funds-Gainers-Analysis-With-Web-Scraping-and-Power-BI/blob/main/yahoo_mutual_fund_gainers.csv)
+- [cleaned_mutual_fund_data](https://github.com/Shadab8081/End-to-End-Mutual-Funds-Gainers-Analysis-With-Web-Scraping-and-Power-BI/blob/main/cleaned_mutual_fund_data.csv)
 ## Process Overview:
-1- Data Collection:	Web scraping mutual fund gainers from Yahoo Finance using Python and BeautifulSoup
-2- Data Cleaning:	Removed nulls, standardized column names, converted percentages to numeric, and cleaned strings
-3-  KPI Definition:	Created DAX measures for average price, return %, daily change %, etc.
-4️- Visualization:	Built Power BI visuals including line charts, bar charts, and KPI cards
-5-  Insights:	Interpreted visual data to provide fund performance insights
+- Data Collection:	Web scraping mutual fund gainers from Yahoo Finance using Python and BeautifulSoup
+- Data Cleaning:	Removed nulls, standardized column names, converted percentages to numeric, and cleaned strings
+- KPI Definition:	Created DAX measures for average price, return %, daily change %, etc.
+- Visualization:	Built Power BI visuals including line charts, bar charts, and KPI cards
+- Insights:	Interpreted visual data to provide fund performance insights
 
 ## Dashboard
 ![Screenshot 2025-05-25 232855](https://github.com/user-attachments/assets/f95af37b-0385-49fd-bfa5-3205fa7780bc)
