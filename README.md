@@ -2,7 +2,7 @@
 ## Project Objective:
 - To extract, clean, and analyze mutual fund data from Yahoo Finance’s top gainers list and develop insightful KPIs and visualizations using Power BI, helping users understand mutual fund trends, performance, and key metrics.
 # STEP:
-## Web Scraping Mutual Fund Data from Yahoo Finance
+# Web Scraping Mutual Fund Data from Yahoo Finance
 # Objective :
 - To extract mutual fund gainer data from Yahoo Finance using Python.
 - Tool Used:
@@ -16,6 +16,7 @@
 - Replace -- with NaN, then fill missing values.
 - Convert string percentages to float.
 - Rename columns for clarity
+# Power BI KPIs
 ## Key Questions / KPIs Answered:
 - What is the average price of mutual funds currently?
 - How are daily percentage changes distributed across funds?
