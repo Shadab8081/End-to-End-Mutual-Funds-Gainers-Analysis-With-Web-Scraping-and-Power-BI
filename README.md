@@ -1,6 +1,9 @@
 # End-to-End-Mutual-Funds-Gainers-Analysis-With-Web-Scraping-and-Power-BI
 ## Project Objective:
 - To extract, clean, and analyze mutual fund data from Yahoo Finance’s top gainers list and develop insightful KPIs and visualizations using Power BI, helping users understand mutual fund trends, performance, and key metrics.
+## DataUsed
+- [yahoo_mutual_fund_gainers](https://github.com/Shadab8081/End-to-End-Mutual-Funds-Gainers-Analysis-With-Web-Scraping-and-Power-BI/blob/main/yahoo_mutual_fund_gainers.csv)
+- [cleaned_mutual_fund_data](https://github.com/Shadab8081/End-to-End-Mutual-Funds-Gainers-Analysis-With-Web-Scraping-and-Power-BI/blob/main/cleaned_mutual_fund_data.csv)
 # STEP:
 # Web Scraping Mutual Fund Data from Yahoo Finance
 # Objective :
@@ -23,9 +26,6 @@
 - Which funds have the highest 3-month and YTD returns?
 - What percentage of funds show positive year-to-date returns?
 - What are the most volatile funds in terms of daily changes?
-## DataUsed
-- [yahoo_mutual_fund_gainers](https://github.com/Shadab8081/End-to-End-Mutual-Funds-Gainers-Analysis-With-Web-Scraping-and-Power-BI/blob/main/yahoo_mutual_fund_gainers.csv)
-- [cleaned_mutual_fund_data](https://github.com/Shadab8081/End-to-End-Mutual-Funds-Gainers-Analysis-With-Web-Scraping-and-Power-BI/blob/main/cleaned_mutual_fund_data.csv)
 ## Process Overview:
 - Data Collection:	Web scraping mutual fund gainers from Yahoo Finance using Python and BeautifulSoup
 - Data Cleaning:	Removed nulls, standardized column names, converted percentages to numeric, and cleaned strings
